@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401011444316",
+    "project_id": "mextest-c214b",
+    "storage_bucket": "mextest-c214b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401011444316:android:eb714e446bb4fea45d7499",
+        "android_client_info": {
+          "package_name": "com.example.mextest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgEEfPSh9iEKlG_vGvpA-aO7QR1L6SgGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
